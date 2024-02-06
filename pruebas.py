@@ -1,1 +1,1 @@
-#archivo de git a cola
+#archivo de git a colab
